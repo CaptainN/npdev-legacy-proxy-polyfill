@@ -1,0 +1,10 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "proxy-polyfill": {
+      "version": "0.2.0",
+      "resolved": "https://registry.npmjs.org/proxy-polyfill/-/proxy-polyfill-0.2.0.tgz",
+      "integrity": "sha512-nuzebMmHosPnyRi1Az16fKJrrztOYNjSJ2gmO/RADUwNjewHp2KP3pLmFZBoIaiW2LMILuTIAIvjoaVI95o3lA=="
+    }
+  }
+}
